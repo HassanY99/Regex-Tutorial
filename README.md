@@ -41,6 +41,9 @@ THEN I find a section about the author and a link to the author’s GitHub profi
   ## Contributing
 
   You can email me
+
+  ## Link to tutorial
+  [Regex-Tutorial](gist-regex.md)
   
 
   ## Questions
